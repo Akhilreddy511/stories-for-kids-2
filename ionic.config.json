@@ -1,0 +1,7 @@
+{
+  "name": "stories-for-kids",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
