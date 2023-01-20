@@ -1,7 +1,10 @@
 {
   "name": "stories-for-kids",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
   },
   "type": "angular"
 }
